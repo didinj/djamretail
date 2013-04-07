@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="1" failures="0" hostname="hafsah" id="0" name="ProductTests" package="com.djamware" tests="1" time="4.813" timestamp="2013-03-26T00:31:19">
+      <properties />
+
+      <testcase classname="com.djamware.ProductTests" name="testMinPluChar" time="4.766">
+          <error message="No such property: plu for class: org.grails.datastore.mapping.validation.ValidationErrors" type="groovy.lang.MissingPropertyException">groovy.lang.MissingPropertyException: No such property: plu for class: org.grails.datastore.mapping.validation.ValidationErrors
+	at com.djamware.ProductTests.testMinPluChar(ProductTests.groovy:19)
+</error>
+
+      </testcase>
+
+      <system-out><![CDATA[--Output from testMinPluChar--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testMinPluChar--
+]]></system-err>
+
+  </testsuite>
+</testsuites>
